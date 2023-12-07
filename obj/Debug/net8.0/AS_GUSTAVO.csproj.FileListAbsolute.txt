@@ -1,0 +1,14 @@
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\bin\Debug\net8.0\AS_GUSTAVO.exe
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\bin\Debug\net8.0\AS_GUSTAVO.deps.json
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\bin\Debug\net8.0\AS_GUSTAVO.runtimeconfig.json
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\bin\Debug\net8.0\AS_GUSTAVO.dll
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\bin\Debug\net8.0\AS_GUSTAVO.pdb
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\AS_GUSTAVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\AS_GUSTAVO.AssemblyInfoInputs.cache
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\AS_GUSTAVO.AssemblyInfo.cs
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\AS_GUSTAVO.csproj.CoreCompileInputs.cache
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\AS_GUSTAVO.dll
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\refint\AS_GUSTAVO.dll
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\AS_GUSTAVO.pdb
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\AS_GUSTAVO.genruntimeconfig.cache
+C:\Users\PROTOCOLO\Documents\AS_GUSTAVO\obj\Debug\net8.0\ref\AS_GUSTAVO.dll
